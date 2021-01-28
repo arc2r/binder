@@ -1,0 +1,5 @@
+install.packages("tidyverse")
+install.packages("devtools")
+devtools::install_github("ratnanil/burningData")
+install.packages("sf")
+install.packages("raster")
